@@ -1,6 +1,6 @@
 # Weather(Clima)
 Projeto criado usando javaScript e API externa "WeatherApi" "https://www.weatherapi.com/". A WeatherApi fornece dados meteorológicos para previsão do tempo em tempo real.
-O projeto foi criado com a intenção de demontrar a facilidade de conexão com API Externa. Para rodar o projeto usar: npm run dev.
+O projeto foi criado com a intenção de demonstrar a facilidade de conexão com API Externa. Para rodar o projeto usar: npm run dev.
 
 
 ## Tecnologias
