@@ -8,5 +8,5 @@ O projeto foi criado com a intenção de demontrar a facilidade de conexão com 
 *   JavaScript.
 *   Reactjs
 ### Imagens do projeto
-![weather](https://github.com/MariaMuniz/weather/tree/main/img/imgClima1.png)
-![weather](https://github.com/MariaMuniz/weather/main/img/imgClima1.png)
+![weather](https://github.com/MariaMuniz/weather/blob/main/img/imgClima1.png)
+![weather](https://github.com/MariaMuniz/weather/blob/main/img/imgClima2.png)
